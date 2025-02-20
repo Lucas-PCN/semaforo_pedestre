@@ -53,6 +53,9 @@ Este projeto implementa um semáforo inteligente utilizando um display OLED SSD1
   COM CUIDADO  
 ```
 
+## Simulação pronta no Wokwi
+- Acesse [Wokwi](https://wokwi.com/projects/420885549333762049).
+
 ## Licença
 Este projeto é de código aberto sob a licença MIT. Sinta-se à vontade para modificar e compartilhar!
 
