@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/semaforo_pedestre.hex'
+elf = 'build\semaforo_pedestre.elf'
